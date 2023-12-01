@@ -39,7 +39,9 @@ You can install using %pip install -r requirements.txt
 
 ## Execution
 
-To execute the project, just launch code.ipynb.
+- 1. Create environment with conda prompt
+- 2. Install libraries with pip install -r requirements.txt
+- 3. Execute code.ipynb
 
 
 
