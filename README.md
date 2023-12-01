@@ -1,12 +1,24 @@
-# Seattle Airbnb
+# Do you want to travel at the lowest cost? Seattle Airbnb.
 
 This is a project based on Seattle Airbnb. The objet of this project is to analyze
 the data of https://www.kaggle.com/datasets/airbnb/seattle of the characteristics, prices,
 availability and other variables of Seattle Airbnbs.
 
-## Author
+## Licensing, Author and Acknowledgements
 
-Juan José Borreguero Nava
+* Data Source: Kaggle https://www.kaggle.com/datasets/airbnb/seattle
+* Author: Juan José Borreguero Nava
+* License: None
+
+README.md with the libraries used on the project, files, short description,
+and a explanation of the launch process. 
+
+## Project Motivation
+
+This repository has the project of solving those three questions:
+- When is the Airbnb more expensive?
+- Which characteristics directly affects to the price of the airbnb?
+- Is there any zipcode or region more expensive?
 
 ## Requirements
 
